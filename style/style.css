@@ -1,0 +1,24 @@
+.ortala {
+    display: flex; justify-content: center;
+}
+
+#search {
+    background-color: #eeeeee;
+    font-size: 18px;
+}
+
+#altrenk1 {
+    background-color: #7EE5DA;
+}
+
+#altrenk2 {
+    background-color: #70CCC2;
+}
+
+#altrenk3 {
+    background-color: #62B3AA;
+}
+
+.top {
+    margin-top: 10px;
+}
